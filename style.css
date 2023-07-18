@@ -1,0 +1,57 @@
+*{
+    font-family: Work Sans;
+}
+
+
+/* menu's style */
+
+    
+
+.header-btn{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 24px;
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    border: 0;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu-item{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none; 
+}
+.menu-item > li{
+    padding-right: 40px;
+}
+.header-btn > h2 , img {
+    padding-left: 20px;
+}
+#menu-title{
+    font-size: 2.7rem;
+    font-weight: 700;
+
+}
+.menu-item-name{
+    color: #3C354F;
+    font-family: Work Sans;
+    font-size: 1.5rem;
+    font-weight: 500;
+
+}
+#header-pink{
+    color:#FF42A5 ;
+}
+
