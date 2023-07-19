@@ -1,0 +1,31 @@
+@media screen and  (max-width:576px) {
+    .nav-container,.nav-item-container{
+        flex-direction: column;
+        align-items: center;
+    
+       
+    }
+    .nav-container{
+        margin-top: 50px;
+    }
+    .logo-container{
+        width: 80%;
+        padding: 50px 35px;
+    }
+    .nav-item-container{
+        width: 90%;
+        display: flex;
+        align-items: center;
+        margin-left: 30px;
+    
+    }
+    .nav-btn{
+        width: 250px;
+        padding-left: 25px;
+        padding-right: 0;
+        margin-top: 30px;
+    }
+    .nav-btn-img{
+    }
+    
+}
